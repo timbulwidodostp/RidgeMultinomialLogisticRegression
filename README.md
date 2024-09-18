@@ -1,6 +1,8 @@
 # RidgeMultinomialLogisticRegression
 Ridge multinomial logistic regression Use RidgeMultinomialLogisticRegression With (In) R Software
 
+https://www.youtube.com/watch?v=XnSVL1bE-lw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
